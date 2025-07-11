@@ -20,8 +20,8 @@ const bola = {
     x: canvas.width / 2,  // Poiciona horizontal inicil (no meio do canvas)
     y: canvas.height / 2, // na vertical tambem 
     raio: 10,             //tamanho de bola (raio de circulo)
-    dx: 3, 
-    dy: 3
+    dx: 6, 
+    dy: 6
 };
 
 let pontuacao = 0;
