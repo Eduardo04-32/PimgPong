@@ -1,0 +1,18 @@
+body{
+    font-family: 'Segoe', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background: url('https://aventurasnahistoria.com.br/media/_versions/curiosidades/concursopets_widelg.jpg')no-repeat center center fixed;
+    background-size: cover;
+    color: black;
+    margin: 0;
+    padding: 20px;
+
+}
+
+canvas{
+    background-color: rgb(56, 150, 150);
+    display: block; 
+    margin: 20px auto;
+    border: 2px solid white;
+    
+}
